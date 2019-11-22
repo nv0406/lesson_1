@@ -1,0 +1,14 @@
+p {
+    color: green;
+}
+
+.blok img{
+    width: 400px;
+    height: 300px;
+}
+
+.blok p{
+    color: blueviolet;
+    font-style: italic;
+    font-size: 40px;
+}
